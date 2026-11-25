@@ -1,0 +1,1 @@
+Open index.html in a WebGL-capable browser or deploy this folder as a static site. No dependencies. Hero uses a procedural ray-marched WebGL shader, 16-second loop, mobile CSS fallback, reduced-motion still frame, pause control and visibility-aware rendering. Existing demos remain simulations.
